@@ -1,2 +1,4 @@
 # pvme-banner-generator
- Banner generator for PVME guides
+A browser-based app for generating banners for PVME guides
+
+Production URL: TBC
